@@ -1,3 +1,4 @@
+//
 #include <cstdio>
 
 int main() {
@@ -19,3 +20,4 @@ int main() {
     printf("Фіксована крапка: %.3f\n", harmonic);
     printf("Науковий формат: %e\n", harmonic);
 }
+//
