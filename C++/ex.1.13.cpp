@@ -1,4 +1,3 @@
-//
 #include <stdio.h>
 #include <math.h>
 
@@ -16,4 +15,3 @@ int main() {
         printf("Число має бути додатним!\n");
     }
 }
-//
